@@ -1,0 +1,2 @@
+# Môi trường tối thiểu để mở và chạy notebook; mã bài tập chỉ dùng thư viện chuẩn.
+notebook>=7.0,<8.0
